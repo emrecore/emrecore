@@ -14,4 +14,3 @@ On GitHub, I use this space to document my learning, share projects, and build a
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=emrecore&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=emrecore&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
