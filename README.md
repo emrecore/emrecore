@@ -1,10 +1,8 @@
 # About Me:
-I’m a Business Administration student at the University of Duisburg-Essen with a growing focus on Data Analytics. 
-I’m interested in using data to understand business problems, support better decision-making, and create practical solutions. 
-My current focus is on building a strong foundation in business, analytics, and technology while continuously improving my skills in data analysis, visualization, and working with tools that help turn raw data into meaningful insights. 
-
-On GitHub, I use this space to document my learning, share projects, and build a portfolio around analytics, business intelligence, and data-driven problem solving. My goal is to combine business understanding with data-driven methods to create clear, useful, and impactful insights.
-
+Business Administration student at the University of Duisburg-Essen with a statistics focus.
+I am interested in how organisations can use reliable, well-structured and transparent data to improve reporting, business processes and decision-making.
+My current focus is on **Data Governance, Data Quality, Data Analytics, Business Intelligence and Process Analytics**, supported by practical skills in **SQL, Python and Power BI**.
+I am particularly interested in responsible data use, data-driven process improvement and the connection between business understanding and technical analysis.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-bilgin228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emre@blgn.de) 
