@@ -1,15 +1,45 @@
-# About Me:
-Business Administration student at the University of Duisburg-Essen with a focus on statistics and data-driven decision-making.
-I am interested in how organisations can use data, technology and structured processes to improve transparency, efficiency and decision-making. 
-My areas of interest include data analytics, business intelligence, data quality, process improvement and digital transformation.
+# About Me
 
-I am continuously developing practical skills in SQL, Python, Power BI and related analytical tools, with a particular interest in turning complex information into clear and reliable insights.
+Business Administration student with a quantitative focus on statistics, data analysis and healthcare management.
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-bilgin228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emre@blgn.de) 
+My interests lie at the intersection of **quantitative decision-making, healthcare management, health economics and outcomes research**. I am particularly interested in how data and quantitative methods can support better management and resource allocation decisions in healthcare while taking clinical outcomes, organisational constraints and economic considerations into account.
 
-# Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+My academic and practical background includes **statistics, data analysis, scientific research and digital projects**. I work with tools such as **R, SQL, Python, Excel and Power BI** and enjoy turning complex data into structured and interpretable insights.
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=emrecore&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## Research Interests
+
+- Healthcare Management
+
+- Health Economics & Outcomes Research
+
+- Quantitative Decision-Making
+
+- Health Services Research
+
+- Resource Allocation
+
+- Clinical Outcomes
+
+- Statistics & Data Analysis
+
+## Selected Projects
+
+### Invoice-to-Payment Process Analysis
+
+SQL-based analysis of invoices, payments and outstanding balances using relational data, CTEs, window functions, aggregations and systematic data quality checks.
+
+### Digital Health App
+
+Interdisciplinary university project focused on the conception and evaluation of a digital health application, including user needs, value proposition and business model development.
+
+### Heine Business Project
+
+Academic project involving scientific literature research, case-study analysis, information quality, stakeholder communication and structured presentation of findings.
+
+## Tech Stack
+
+**Data & Analytics:** SQL · R · Python · Power BI · Excel  
+
+**Methods:** Statistics · Data Analysis · Data Quality · Research  
+
+**Tools:** Git · GitHub · Jira · Confluenc
